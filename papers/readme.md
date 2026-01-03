@@ -26,7 +26,7 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 
 | Method | Paper | Venue | Links |
 |--------|-------|-------|-------|
-
+| **ReFoCUS** | Reinforcement-guided Frame Optimization for Contextual Understanding | - | [📄 arXiv](https://arxiv.org/pdf/2506.01274v1) |
 ---
 
 ### 🔧 Training-Free Methods
@@ -39,6 +39,9 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 | **Q-Frame** | Query-aware Frame Selection | - | [📄 arXiv](https://arxiv.org/abs/2506.22139) |
 | **DIG** | Divide, then Ground: Adapting Frame Selection to Query Types | - | [📄 arXiv](https://arxiv.org/abs/2512.04000) |
 | **MDP3** | Training-free approach for List-wise Frame Selection | - | [📄 arXiv](https://arxiv.org/abs/2501.02885) |
+| **KFC** | Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders | - | [📄 arXiv](https://arxiv.org/pdf/2505.24158v1) |
+| **FRAME-VOYAGER** | LEARNING TO QUERY FRAMES FOR VIDEO LARGE LANGUAGE MODELS | - | [📄 arXiv](https://arxiv.org/pdf/2410.03226v2) |
+
 
 <details>
 <summary><b>💡 Key Insight - FOCUS</b></summary>
@@ -61,11 +64,8 @@ MLLMs represent images and video frames as visual tokens. Scaling from single im
 > Papers pending categorization and detailed review
 
 * https://arxiv.org/pdf/2507.00033v1
-* https://arxiv.org/pdf/2506.01214v1
 * https://arxiv.org/pdf/2506.00318v1
-* https://arxiv.org/pdf/2505.24158v1
 * https://arxiv.org/pdf/2504.17447v1
-* https://arxiv.org/pdf/2410.03226v2
 
 ---
 
