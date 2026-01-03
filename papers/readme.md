@@ -24,19 +24,9 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 
 ### 🔄 Reinforcement Learning
 
-<table>
-<tr>
-<td width="30%"><b>A.I.R</b><br/><i>Adaptive, Iterative, Reasoning-based</i></td>
-<td width="50%">Enabling Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering</td>
-<td width="20%">
-  
-📄 [OpenReview](https://openreview.net/forum?id=SZVpOKw0YD)  
-🏷️ ICLR 2026 (under review)
-
-</td>
-</tr>
-</table>
-
+| Method | Paper | Venue | Links |
+|--------|-------|-------|-------|
+| **A.I.R** | Enabling Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering | ICLR 2026 (sub) | [📄 OpenReview](https://openreview.net/forum?id=SZVpOKw0YD) |
 > *Effectively applying Vision-Language Models (VLMs) to VideoQA hinges on selecting a concise yet comprehensive set of frames*
 
 ---
