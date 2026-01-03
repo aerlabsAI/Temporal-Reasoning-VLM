@@ -26,8 +26,6 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 
 | Method | Paper | Venue | Links |
 |--------|-------|-------|-------|
-| **A.I.R** | Enabling Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering | ICLR 2026 (sub) | [📄 OpenReview](https://openreview.net/forum?id=SZVpOKw0YD) |
-> *Effectively applying Vision-Language Models (VLMs) to VideoQA hinges on selecting a concise yet comprehensive set of frames*
 
 ---
 
@@ -35,6 +33,7 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 
 | Method | Paper | Venue | Links |
 |--------|-------|-------|-------|
+| **A.I.R** | Enabling Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering | ICLR 2026 (sub) | [📄 OpenReview](https://openreview.net/forum?id=SZVpOKw0YD) |
 | **FOCUS** | Efficient Keyframe Selection for Long Video Understanding | ICLR 2026 (sub) | [📄 OpenReview](https://openreview.net/forum?id=1OQKqLFcbB) |
 | **AKS** | Adaptive Keyframe Sampling for Long Video Understanding | CVPR 2025 | [📄 arXiv](https://arxiv.org/pdf/2502.21271v1) • [🏛️ CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Adaptive_Keyframe_Sampling_for_Long_Video_Understanding_CVPR_2025_paper.pdf) |
 | **Q-Frame** | Query-aware Frame Selection | - | [📄 arXiv](https://arxiv.org/abs/2506.22139) |
