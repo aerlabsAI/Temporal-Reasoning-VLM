@@ -5,6 +5,8 @@ This repository contains a curated list of papers on video frame selection for l
 
 ---
 
+## 📚 Paper Categories
+
 ### 🔄 Reinforcement Learning Methods
 
 #### A.I.R (Adaptive, Iterative, and Reasoning-based Frame Selection)
@@ -12,10 +14,6 @@ This repository contains a curated list of papers on video frame selection for l
 - **Link**: [OpenReview](https://openreview.net/forum?id=SZVpOKw0YD)
 - **Status**: Submitted to ICLR2026 (not accepted yet)
 - **Description**: Effectively applying Vision-Language Models (VLMs) to VideoQA hinges on selecting a concise yet comprehensive set of frames
-
----
-
-## 📚 Paper Categories
 
 ### 🔧 Training-Free Methods
 
