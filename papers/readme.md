@@ -27,6 +27,9 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 | Method | Paper | Venue | Links |
 |--------|-------|-------|-------|
 | **ReFoCUS** | Reinforcement-guided Frame Optimization for Contextual Understanding | - | [📄 arXiv](https://arxiv.org/pdf/2506.01274v1) |
+| **Video-R1** | Reinforcing Video Reasoning in MLLMs | - | [📄 arXiv](https://arxiv.org/abs/2503.21776) |
+| **Video-RTS** | Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning | - | [📄 arXiv](https://arxiv.org/abs/2507.06485) |
+| **ReaSon** | Reinforced Causal Search with Information Bottleneck for Video Understanding | AAAI 2026 | [📄 arXiv](https://arxiv.org/abs/2511.12530) |
 ---
 
 ### 🔧 Training-Free Methods
@@ -35,6 +38,7 @@ This repository tracks state-of-the-art approaches to video frame selection, wit
 |--------|-------|-------|-------|
 | **A.I.R** | Enabling Adaptive, Iterative, and Reasoning-based Frame Selection for Video Question Answering | ICLR 2026 (sub) | [📄 OpenReview](https://openreview.net/forum?id=SZVpOKw0YD) |
 | **FOCUS** | Efficient Keyframe Selection for Long Video Understanding | ICLR 2026 (sub) | [📄 OpenReview](https://openreview.net/forum?id=1OQKqLFcbB) |
+| **F2C** | From Frames to Clips: Training-free Adaptive Key Clip Selection for Long-Form Video Understanding | - | [📄 arXiv](https://arxiv.org/abs/2510.02262) |
 | **AKS** | Adaptive Keyframe Sampling for Long Video Understanding | CVPR 2025 | [📄 arXiv](https://arxiv.org/pdf/2502.21271v1) • [🏛️ CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Adaptive_Keyframe_Sampling_for_Long_Video_Understanding_CVPR_2025_paper.pdf) |
 | **Q-Frame** | Query-aware Frame Selection | - | [📄 arXiv](https://arxiv.org/abs/2506.22139) |
 | **DIG** | Divide, then Ground: Adapting Frame Selection to Query Types | - | [📄 arXiv](https://arxiv.org/abs/2512.04000) |
